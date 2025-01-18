@@ -3,7 +3,7 @@
 
   <!-- Home Page -->
   <url>
-    <loc>https://epicad.vercel.app/</loc>
+    <loc>https://adsense-neon.vercel.app</loc>
     <lastmod>2024-12-08</lastmod>
     <priority>1.00</priority>
   </url>
@@ -11,13 +11,13 @@
   <!-- Add more pages as needed -->
   <!-- Example of another page -->
   <url>
-    <loc>https://epicad.vercel.app/about</loc>
+    <loc>https://adsense-neon.vercel.app/About</loc>
     <lastmod>2024-12-08</lastmod>
     <priority>0.80</priority>
   </url>
 
   <url>
-    <loc>https://epicad.vercel.app/contact</loc>
+    <loc>https://adsense-neon.vercel.app/Contact</loc>
     <lastmod>2024-12-08</lastmod>
     <priority>0.80</priority>
   </url>
